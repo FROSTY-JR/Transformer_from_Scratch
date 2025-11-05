@@ -1,0 +1,4 @@
+Since this project aims to understand and recreate the transformer model from scratch, the requirements is minimal...
+
+torch (Pytorch)
+Numpy
