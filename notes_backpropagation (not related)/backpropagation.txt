@@ -1,0 +1,1 @@
+Although not necessary for this very project or in understanding transformers, it is a beautiful concept mathematically, and i will attach thr notes that i made while learning the foundations of Deeplearning.
